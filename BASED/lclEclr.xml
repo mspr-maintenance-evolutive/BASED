@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Ctry Code="FR">
+		<Rg Code="IdF">
+			<Dpt Code="Paris">
+				<Arrdt Code="01">
+					<Lpdre>
+						<Id>CD0X+32</Id>
+						<Ltd>-5.1</Ltd>
+						<Lgtd>-68.3</Ltd>
+					</Lpdre>
+				</Arrdt>
+				<Arrdt Code="02">
+				</Arrdt>
+				<Arrdt Code="03">
+				</Arrdt>
+				<Arrdt Code="04">
+					<Lpdre>
+						<Id>CM1P-t2</Id>
+						<Ltd>-5.1</Ltd>
+						<Lgtd>-68.3</Ltd>
+					</Lpdre>
+					<Lpdre>
+						<Id>AT43+V2</Id>
+						<Ltd>-23.1</Ltd>
+						<Lgtd>8.8</Ltd>
+					</Lpdre>
+				</Arrdt>
+				<Arrdt Code="05">
+				</Arrdt>
+				<Arrdt Code="06">
+				</Arrdt>
+				<Arrdt Code="07">
+					<Lpdre>
+						<Id>B3GH-CD</Id>
+						<Ltd>-6.1</Ltd>
+						<Lgtd>-78.3</Ltd>
+					</Lpdre>
+					<Lpdre>
+						<Id>AOP9+E4</Id>
+						<Ltd>7.03</Ltd>
+						<Lgtd>-16.84</Ltd>
+					</Lpdre>
+				</Arrdt>
+				<Arrdt Code="08">
+				</Arrdt>
+				<Arrdt Code="09">
+				</Arrdt>
+				<Arrdt Code="10">
+				</Arrdt>
+				<Arrdt Code="11">
+				</Arrdt>
+				<Arrdt Code="12">
+					<Lpdre>
+						<Id>MM9F-32</Id>
+						<Ltd>9.8</Ltd>
+						<Lgtd>8.3</Ltd>
+					</Lpdre>
+				</Arrdt>
+				<Arrdt Code="13">
+				</Arrdt>
+				<Arrdt Code="14">
+				</Arrdt>
+				<Arrdt Code="15">
+				</Arrdt>
+				<Arrdt Code="16">
+				</Arrdt>
+				<Arrdt Code="17">
+				</Arrdt>
+				<Arrdt Code="18">
+				</Arrdt>
+				<Arrdt Code="19">
+				</Arrdt>
+				<Arrdt Code="20">
+				</Arrdt>
+			</Dpt>
+		</Rg>
+	</Ctry>
+</Document>

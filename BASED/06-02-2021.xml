@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Arrdt Id="01">
+		<Plge Fn="08:33" />
+		<Plge Db="20:14" />
+	</Arrdt>
+	<Arrdt Id="02">
+		<Plge Fn="08:35" />
+		<Plge Db="20:09" />
+	</Arrdt>
+	<Arrdt Id="07">
+		<Plge Fn="08:34" />
+		<Plge Db="20:11" />
+	</Arrdt>
+	<Arrdt Id="04">
+		<Plge Fn="08:30" />
+		<Plge Db="20:01" />
+	</Arrdt>
+	<Arrdt Id="12">
+		<Plge Fn="08:35" />
+		<Plge Db="20:14" />
+	</Arrdt>
+	<Arrdt Id="16">
+		<Plge Fn="08:42" />
+		<Plge Db="20:17" />
+	</Arrdt>
+</Document>
