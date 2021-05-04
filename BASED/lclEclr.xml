@@ -8,7 +8,7 @@
 					<Lpdre>
 						<Id>CD0X+32</Id>
 						<Ltd>-5.1</Ltd>
-						<Lgtd>-68.3</Ltd>
+						<Lgtd>-68.3</Lgtd>
 					</Lpdre>
 				</Arrdt>
 				<Arrdt Code="02">
@@ -19,12 +19,12 @@
 					<Lpdre>
 						<Id>CM1P-t2</Id>
 						<Ltd>-5.1</Ltd>
-						<Lgtd>-68.3</Ltd>
+						<Lgtd>-68.3</Lgtd>
 					</Lpdre>
 					<Lpdre>
 						<Id>AT43+V2</Id>
 						<Ltd>-23.1</Ltd>
-						<Lgtd>8.8</Ltd>
+						<Lgtd>8.8</Lgtd>
 					</Lpdre>
 				</Arrdt>
 				<Arrdt Code="05">
@@ -35,12 +35,12 @@
 					<Lpdre>
 						<Id>B3GH-CD</Id>
 						<Ltd>-6.1</Ltd>
-						<Lgtd>-78.3</Ltd>
+						<Lgtd>-78.3</Lgtd>
 					</Lpdre>
 					<Lpdre>
 						<Id>AOP9+E4</Id>
 						<Ltd>7.03</Ltd>
-						<Lgtd>-16.84</Ltd>
+						<Lgtd>-16.84</Lgtd>
 					</Lpdre>
 				</Arrdt>
 				<Arrdt Code="08">
@@ -55,7 +55,7 @@
 					<Lpdre>
 						<Id>MM9F-32</Id>
 						<Ltd>9.8</Ltd>
-						<Lgtd>8.3</Ltd>
+						<Lgtd>8.3</Lgtd>
 					</Lpdre>
 				</Arrdt>
 				<Arrdt Code="13">

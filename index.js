@@ -28,12 +28,11 @@ app.get('/', async (req, res) => {
  * @response 200 - OK
  */
 app.get('/eclairage/horaires/:date', async (req, res) => {
-    console.log(req.params.date)
     if(based.checkFormat(req.params.date)){
         if(based.fileExist(req.params.date)){
-            //res.setHeader('content-type', 'text/csv')
-            //res.setHeader('Content-Disposition', 'attachment;filename=espaces_ouverts.csv')
-            res.send(based.getSchedules())
+            res.setHeader('content-type', 'text/csv')
+            res.setHeader('Content-Disposition', 'attachment;filename=horaires.csv')
+            res.send(based.getSchedules(req.params.date))
         } else {
             res.status(404).send("Date not found")
         }
