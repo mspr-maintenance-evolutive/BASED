@@ -1,0 +1,30 @@
+{
+    "name": "BASED",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/mspr-maintenance-evolutive/BASED",
+    "author": "j-peguet",
+    "license": "MIT",
+    "scripts": {
+      "dev": "nodemon -L",
+      "start": "node index.js",
+      "test": "jest index.test.js",
+      "doc": "openapi-comment-parser . openapi.json"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "express": "^4.17.1",
+      "helmet": "^4.6.0",
+      "moment": "^2.29.1",
+      "morgan": "^1.10.0",
+      "nodemon": "^2.0.7",
+      "swagger-ui-express": "^4.1.6",
+      "xml-js": "^1.6.11"
+    },
+    "devDependencies": {
+      "jest": "^26.6.3",
+      "supertest": "^6.1.3"
+    }
+  }
+  
